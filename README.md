@@ -1,13 +1,17 @@
-![gothonweb](https://github.com/tsmol07/gothonweb/blob/master/image/2.jpg)
+<p align="center">
+    <img src="https://github.com/tsmol07/gothonweb/blob/master/image/3.jpg">
+</p>
+
+---
 
 **gothonweb** is a simple python game on the web.
 
 ### Installation
-**Requirements** `flask`
+Requirements `flask`
 ```bash
 pip3 install flask
 ```
-**Clone from GitHub**
+Clone from GitHub
 ```bash
 git clone https://github.com/tsmol07/gothonweb.git
 ```
@@ -19,7 +23,9 @@ python3 app.py
 ```
 Play it on `http://127.0.0.1:5000`
 
-![chrome](https://github.com/tsmol07/gothonweb/blob/master/image/3.jpg)
+<p align="center">
+    <img src="https://github.com/tsmol07/gothonweb/blob/master/image/3.jpg">
+</p>
 
 ### Running tests
 
