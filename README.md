@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/tsmol07/gothonweb/blob/master/image/3.jpg">
+    <img src="https://raw.githubusercontent.com/tsmol07/gothonweb/blob/master/image/2.png">
 </p>
 
 ---
@@ -24,7 +24,7 @@ python3 app.py
 Play it on `http://127.0.0.1:5000`
 
 <p align="center">
-    <img src="https://github.com/tsmol07/gothonweb/blob/master/image/3.jpg">
+    <img src="https://raw.githubusercontent.com/tsmol07/gothonweb/blob/master/image/3.png">
 </p>
 
 ### Running tests
