@@ -1,14 +1,14 @@
-# gothonweb
+![gothonweb](https://github.com/tsmol07/gothonweb/blob/master/image/2.jpg)
 
 **gothonweb** is a simple python game on the web.
 
 ### Installation
 **Requirements** `flask`
-```
+```bash
 pip3 install flask
 ```
 **Clone from GitHub**
-```
+```bash
 git clone https://github.com/tsmol07/gothonweb.git
 ```
 
@@ -18,6 +18,8 @@ cd gothonweb
 python3 app.py
 ```
 Play it on `http://127.0.0.1:5000`
+
+![chrome](https://github.com/tsmol07/gothonweb/blob/master/image/3.jpg)
 
 ### Running tests
 
@@ -31,4 +33,7 @@ Run nosetests in bash/zsh
 nosetests
 ```
 
+### More About Python3
+```
 https://learnpythonthehardway.org/python3/
+```
