@@ -1,7 +1,4 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/tsmol07/gothonweb/blob/master/image/2.png">
-</p>
-
+![](https://github.com/tsmol07/gothonweb/blob/master/image/2.png?raw%3Dtrue)
 ---
 
 **gothonweb** is a simple python game on the web.
@@ -23,9 +20,7 @@ python3 app.py
 ```
 Play it on `http://127.0.0.1:5000`
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/tsmol07/gothonweb/blob/master/image/3.png">
-</p>
+![](https://github.com/tsmol07/gothonweb/blob/master/image/3.png?raw%3Dtrue)
 
 ### Running tests
 
