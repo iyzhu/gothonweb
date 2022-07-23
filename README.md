@@ -1,4 +1,4 @@
-![](https://github.com/tsmol07/gothonweb/blob/master/image/2.png?raw%3Dtrue)
+![](https://github.com/realanons/gothonweb/blob/master/image/2.png?raw%3Dtrue)
 ---
 
 **gothonweb** is a simple python game on the web.
@@ -10,7 +10,7 @@ pip3 install flask
 ```
 Clone from GitHub
 ```bash
-git clone https://github.com/tsmol07/gothonweb.git
+https://github.com/realanons/gothonweb.git
 ```
 
 ### Usage
@@ -20,7 +20,7 @@ python3 app.py
 ```
 Play it on `http://127.0.0.1:5000`
 
-![](https://github.com/tsmol07/gothonweb/blob/master/image/3.png?raw%3Dtrue)
+![](https://github.com/realanons/gothonweb/blob/master/image/3.png?raw%3Dtrue)
 
 ### Running tests
 
